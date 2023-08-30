@@ -1,0 +1,2 @@
+full_name,login,pswd,acc_number,balance
+varad,varad@22,pswd,1234567890123456,30000
